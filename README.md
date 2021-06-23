@@ -28,13 +28,13 @@ Entre no GitHub e acesse o código fonte do repositório "CreditoParaTodxs". <br
 7.2.1.2.2. Se não, sistema retorna ao passo 7.2. <br/> 
 7.2.2. Se usuário informa não, sistema finaliza. <br/>
 
--Primeira demonstração. <br/>
+-Primeira demonstração: <br/>
 ![ComoUtilizar](https://user-images.githubusercontent.com/80331827/123161814-40821c00-d446-11eb-9cf7-b6093f20e07c.png)
 
--Segunda demonstração. <br/>
+-Segunda demonstração: <br/>
 ![ComoExecutar1](https://user-images.githubusercontent.com/80331827/123161890-5c85bd80-d446-11eb-8924-c92f3cccaefb.png)
 ![ComoExecutar1 1](https://user-images.githubusercontent.com/80331827/123161899-5ee81780-d446-11eb-9dff-ddc7fe8e75bb.png)
 
--Terceira demonstração. <br/>
+-Terceira demonstração: <br/>
 ![ComoExecutar2](https://user-images.githubusercontent.com/80331827/123162101-95be2d80-d446-11eb-870a-d8686475c226.png)
 
